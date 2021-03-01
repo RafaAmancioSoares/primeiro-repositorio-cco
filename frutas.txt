@@ -1,5 +1,7 @@
-abacaxi
-banana
+A:
+2 abacaxi
+10 amora
 
-
-maça
+M:
+3 maça
+2 melão
