@@ -1,3 +1,5 @@
 abacaxi
 banana
-uva
+
+melancia
+maça
