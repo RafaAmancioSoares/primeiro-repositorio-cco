@@ -1,13 +1,16 @@
 A:
 2 abacaxi
 10 amora
+2 ameixas
 
 M:
 3 maça
 2 melão
+4 morangos
 
 B:
 2 bananas
 
 U:
 10 uvas
+
